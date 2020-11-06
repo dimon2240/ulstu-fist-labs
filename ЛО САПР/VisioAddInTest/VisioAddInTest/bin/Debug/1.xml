@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<diagramm>
+  <shape>
+    <Id>217</Id>
+    <title>Начало</title>
+    <type>Start Event</type>
+    <connects>
+      <from />
+      <to />
+    </connects>
+  </shape>
+  <shape>
+    <Id>230</Id>
+    <title>Задача 1</title>
+    <type>Task</type>
+    <connects>
+      <from />
+      <to />
+    </connects>
+  </shape>
+  <shape>
+    <Id>253</Id>
+    <title>Задача 2</title>
+    <type>Task</type>
+    <connects>
+      <from />
+      <to />
+    </connects>
+  </shape>
+  <shape>
+    <Id>276</Id>
+    <title>Задача 3</title>
+    <type>Task</type>
+    <connects>
+      <from />
+      <to />
+    </connects>
+  </shape>
+  <shape>
+    <Id>299</Id>
+    <title>Конец</title>
+    <type>End Event.15</type>
+    <connects>
+      <from />
+      <to />
+    </connects>
+  </shape>
+  <shape>
+    <Id>312</Id>
+    <title>Конец</title>
+    <type>End Event.312</type>
+    <connects>
+      <from />
+      <to />
+    </connects>
+  </shape>
+  <shape>
+    <Id>325</Id>
+    <title></title>
+    <type>Gateway.16</type>
+    <connects>
+      <from />
+      <to />
+    </connects>
+  </shape>
+  <shape>
+    <Id>340</Id>
+    <title></title>
+    <type>Dynamic Connector</type>
+    <connects>
+      <from>230</from>
+      <to>217</to>
+    </connects>
+  </shape>
+  <shape>
+    <Id>342</Id>
+    <title></title>
+    <type>Dynamic Connector.342</type>
+    <connects>
+      <from>325</from>
+      <to>230</to>
+    </connects>
+  </shape>
+  <shape>
+    <Id>343</Id>
+    <title>Да</title>
+    <type>Dynamic Connector.343</type>
+    <connects>
+      <from>253</from>
+      <to>325</to>
+    </connects>
+  </shape>
+  <shape>
+    <Id>344</Id>
+    <title>Нет</title>
+    <type>Dynamic Connector.344</type>
+    <connects>
+      <from>276</from>
+      <to>325</to>
+    </connects>
+  </shape>
+  <shape>
+    <Id>345</Id>
+    <title></title>
+    <type>Dynamic Connector.345</type>
+    <connects>
+      <from>299</from>
+      <to>253</to>
+    </connects>
+  </shape>
+  <shape>
+    <Id>346</Id>
+    <title></title>
+    <type>Dynamic Connector.346</type>
+    <connects>
+      <from>312</from>
+      <to>276</to>
+    </connects>
+  </shape>
+  <shape>
+    <Id>565</Id>
+    <title></title>
+    <type>Dynamic Connector.565</type>
+    <connects>
+      <from>230</from>
+      <to>276</to>
+    </connects>
+  </shape>
+  <shape>
+    <Id>654</Id>
+    <title></title>
+    <type>Sheet.654</type>
+    <connects>
+      <from />
+      <to />
+    </connects>
+  </shape>
+</diagramm>

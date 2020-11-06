@@ -1,0 +1,52 @@
+c:\users\lab\documents\visual studio 2017\Projects\VisioAddInTest\VisioAddInTest\bin\Debug\VisioAddInTest.dll
+c:\users\lab\documents\visual studio 2017\Projects\VisioAddInTest\VisioAddInTest\bin\Debug\VisioAddInTest.pdb
+c:\users\lab\documents\visual studio 2017\Projects\VisioAddInTest\VisioAddInTest\bin\Debug\VisioAddInTest.dll.manifest
+c:\users\lab\documents\visual studio 2017\Projects\VisioAddInTest\VisioAddInTest\bin\Debug\VisioAddInTest.vsto
+c:\users\lab\documents\visual studio 2017\Projects\VisioAddInTest\VisioAddInTest\bin\Debug\Microsoft.Office.Tools.Common.dll
+c:\users\lab\documents\visual studio 2017\Projects\VisioAddInTest\VisioAddInTest\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\lab\documents\visual studio 2017\Projects\VisioAddInTest\VisioAddInTest\bin\Debug\Microsoft.Office.Tools.dll
+c:\users\lab\documents\visual studio 2017\Projects\VisioAddInTest\VisioAddInTest\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+c:\users\lab\documents\visual studio 2017\Projects\VisioAddInTest\VisioAddInTest\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+c:\users\lab\documents\visual studio 2017\Projects\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2017\Projects\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2017\Projects\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.Ribbon1.resources
+c:\users\lab\documents\visual studio 2017\Projects\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2017\Projects\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.dll
+c:\users\lab\documents\visual studio 2017\Projects\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.pdb
+C:\Users\lab\documents\visual studio 2017\Projects\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.Form1.resources
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\bin\Debug\VisioAddInTest.dll
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\bin\Debug\VisioAddInTest.pdb
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\bin\Debug\VisioAddInTest.dll.manifest
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\bin\Debug\VisioAddInTest.vsto
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.csprojAssemblyReference.cache
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.Form1.resources
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.Properties.Resources.resources
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.Ribbon1.resources
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.csproj.GenerateResource.cache
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.csproj.CoreCompileInputs.cache
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.csproj.CopyComplete
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.dll
+C:\Users\Rustam\Desktop\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.pdb
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\bin\Debug\VisioAddInTest.dll
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\bin\Debug\VisioAddInTest.pdb
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\bin\Debug\VisioAddInTest.dll.manifest
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\bin\Debug\VisioAddInTest.vsto
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\bin\Debug\Microsoft.Office.Tools.Common.dll
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\bin\Debug\Microsoft.Office.Tools.dll
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.csprojAssemblyReference.cache
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.Form1.resources
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.Properties.Resources.resources
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.Ribbon1.resources
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.csproj.GenerateResource.cache
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.csproj.CoreCompileInputs.cache
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.csproj.CopyComplete
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.dll
+F:\Всякое разное по учебе\ЛО САПР\VisioAddInTest\VisioAddInTest\obj\Debug\VisioAddInTest.pdb
